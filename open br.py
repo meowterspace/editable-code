@@ -7,3 +7,4 @@ br=Browser()
 br.open("www.google.com")
 time.sleep(0)
 webbrowser.open("www.facebook.com")
+//doesn't work
